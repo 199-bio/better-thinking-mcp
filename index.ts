@@ -87,7 +87,7 @@ const BETTER_THINKING_TOOL_DEFINITION: Tool = {
 // Define server metadata
 const serverInfo = {
   name: "better-thinking-server",
-  version: "0.6.2", // Match package.json version
+  version: "0.6.3", // Match package.json version
 };
 
 // Create the main MCP Server instance with metadata.
