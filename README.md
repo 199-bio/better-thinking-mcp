@@ -1,6 +1,6 @@
 # Better Thinking MCP Server
 
-**Version:** 0.5.0
+**Version:** 0.6.3
 **Author:** Boris Djordjevic
 **Date:** April 5, 2025
 **Developed By:** [199 Longevity](https://199.bio)
@@ -79,9 +79,7 @@ Add this to your MCP server configuration (e.g., `claude_desktop_config.json`):
     "better-thinking": {
       "command": "npx",
       "args": [
-        "-y",
         "better-thinking-mcp"
-         // This is the new package name
       ]
     }
   }
@@ -100,7 +98,6 @@ Add this to your MCP server configuration (e.g., `claude_desktop_config.json`):
         "--rm",
         "-i",
         "better-thinking-mcp"
-         // Use the image name you build with (e.g., 199bio/better-thinking-mcp or just better-thinking-mcp)
       ]
     }
   }
