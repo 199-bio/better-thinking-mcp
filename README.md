@@ -1,6 +1,6 @@
 # Better Thinking MCP Server
 
-**Version:** 0.6.3
+**Version:** 0.6.4
 **Author:** Boris Djordjevic
 **Date:** April 5, 2025
 **Developed By:** [199 Longevity](https://199.bio)
